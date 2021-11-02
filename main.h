@@ -17,7 +17,7 @@
  * ['c', 's', '%', 'd', 'i', 'b', 'u', 'o', 'x', 'X', 'S', 'p', 'r', 'R']
  *
  */
-typedef struct modifier
+typedef struct modifier_t
 {
 	char *flags;
 	int width;

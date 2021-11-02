@@ -1,5 +1,6 @@
 #include <stdlib.h>
-#include "main.h
+#include "main.h"
+
 /**
  * get_flags - extract flags after % into a string
  * @s: string to extract from
